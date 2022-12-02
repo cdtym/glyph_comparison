@@ -89,6 +89,53 @@
 3. 对比《通用规范汉字表》与《古籍印刷通用字规范字形表》，进而得出《古籍印刷通用字规范字形表》与港台两地规范的对比情况。目前在知乎上已经看到有两位仁兄在做类似的工作，可以参考。
 
 # 20221126更新
+
 《汉字字形对比字典》到手，整理了其中的七区字（三地用字有别的字），并将其加入到对比结果中
+
+# 20221202更新
+
+新增文件3个：
+
+- 海峡两岸汉字对照表附注.xlsx
+  
+  - 总结出所有《海峡两岸汉字对照表》脚注涉及的规范字，下一步可以以此为线索梳理出《海峡两岸汉字对照表》中所有两岸三地用字上的差异，进而完善原有表格
+
+- 通规表&附表一&古规表.xlsx
+  
+  - 将《通用规范汉字表》及其附表一、《古籍印刷规范字通用字形表》整理成统一的Unicode格式，统计字数，便于后期脚本化批量处理
+  
+  - 《古籍印刷规范字通用字形表》的整理参考
+    
+    - [白雲深處人家 中華傳統道文化數字圖書館](http://www.homeinmists.com/index.htm)
+  
+  - 《通用规范汉字表》整理参考
+    
+    - [白雲深處人家 中華傳統道文化數字圖書館](http://www.homeinmists.com/index.htm)
+    
+    - 《通用规范汉字字典 》
+    
+    - GB18030-2022 附录E
+    
+    - 公众号《巴山法语》已经整理好的pdf
+    
+    - [通用规范汉字表 - 维基文库，自由的图书馆](https://zh.wikisource.org/zh-hans/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8)
+
+- Unihan&国家标准统计.xlsx
+  
+  - 整理Unihan数据库标签，对应的Unicode分区，记录几个国家标准的字数
+  
+  - 参考
+    
+    - https://www.unicode.org/reports/tr38/
+    
+    - [UnicodeCJK-WuBi06](https://cnman.github.io/unicodecjk-wubi06.html)
+    
+    - [字海网|叶典](http://zisea.com/zsts.htm)
+    
+    - https://www.bilibili.com/read/cv17820052/
+    
+    - [NoteGainExp - Unicode、GB2312、GBK和GB18030中的汉字](https://sites.google.com/site/notegainexp/c_cplusplus/unicode%E3%80%81gb2312%E3%80%81gbkhegb18030zhongdehanzi)
+    
+    - GB18030-2022
 
 p.s. 欢迎电邮cdtym_vc@yeah.net 就相关问题进行讨论，也期待同仁指教，谢谢！
